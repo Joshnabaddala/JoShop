@@ -1,0 +1,6 @@
+.env
+joshop-env/
+__pycache__/
+*.pyc
+.DS_Store
+*.csv

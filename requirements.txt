@@ -1,0 +1,12 @@
+streamlit
+pandas
+scikit-learn
+groq
+langchain
+langchain-groq
+faiss-cpu
+textblob
+matplotlib
+seaborn
+python-dotenv
+requests
