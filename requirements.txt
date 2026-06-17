@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-streamlit
+﻿streamlit
 pandas
 scikit-learn
 groq
@@ -11,8 +10,3 @@ matplotlib
 seaborn
 python-dotenv
 requests
-=======
-altair
-pandas
-streamlit
->>>>>>> 691529fafc9404bc99be5fb6e72b39336e008b0e
